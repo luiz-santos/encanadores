@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\RGB Quest\Assets\scripts\Grid.cs">
+    <Files>
+      <File FileName="..\RGB Quest\Assets\scripts\Grid.cs" Line="19" Column="30" />
+      <File FileName="..\RGB Quest\Assets\scripts\PlayerController.cs" Line="51" Column="109" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
