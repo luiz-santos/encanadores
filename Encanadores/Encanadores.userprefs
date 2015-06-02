@@ -1,9 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\RGB Quest\Assets\scripts\Grid.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Analise.cs">
     <Files>
-      <File FileName="..\RGB Quest\Assets\scripts\Grid.cs" Line="19" Column="30" />
-      <File FileName="..\RGB Quest\Assets\scripts\PlayerController.cs" Line="51" Column="109" />
+      <File FileName="Assets\scripts\Utils.cs" Line="15" Column="41" />
+      <File FileName="Assets\scripts\Requisitos.cs" Line="15" Column="3" />
+      <File FileName="Assets\scripts\Analise.cs" Line="14" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
